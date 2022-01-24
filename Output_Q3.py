@@ -7,5 +7,5 @@ value of a | b:-  58
 value of a ^ b:-  50
 value of a after shifting left by 2 bits:-  224
 value of b after shifting left by 2 bits:-  40
-value of a after shifting right by 2 bits:-  56
-value of b after shifting right by 4 bits:-  2
+value of a after shifting right by 2 bits:-  14
+value of b after shifting right by 4 bits:-  0
